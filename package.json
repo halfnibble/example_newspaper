@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "axios": "^0.19.0",
+    "basic-auth": "^2.0.1",
+    "bootstrap": "^4.3.1",
+    "browser-sync": "^2.26.5",
+    "crypto": "^1.0.1",
+    "gulp": "^4.0.2",
+    "gulp-better-rollup": "^4.0.1",
+    "gulp-eslint": "^5.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "jquery": "^3.4.0",
+    "md5": "^2.2.1",
+    "moment": "^2.24.0",
+    "rollup": "^1.12.0",
+    "rollup-plugin-babel": "^4.3.2",
+    "rollup-plugin-commonjs": "^10.0.0",
+    "rollup-plugin-json": "^4.0.0",
+    "rollup-plugin-node-resolve": "^5.0.1",
+    "tsscmp": "^1.0.6"
+  }
+}
